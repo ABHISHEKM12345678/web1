@@ -11,7 +11,7 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background: url('https://example.com/your-absolute-image.jpg') no-repeat center center/cover;
+            background: url('https://img.freepik.com/premium-photo/facebook-template-3d-illustration_665513-4.jpg') no-repeat center center/cover;
             margin: 0;
         }
         .login-container {
